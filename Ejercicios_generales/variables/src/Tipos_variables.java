@@ -39,5 +39,12 @@ public class Tipos_variables {
         System.out.println(i + j + usuario);
         System.out.println(usuario + i + j);
         System.out.println(usuario + (i + j));
+
+        //Caracteres especiales
+        System.out.println("Nueva linea: \n" + usuario);
+        System.out.println("Tabulador: \t" + usuario);
+        System.out.println("Retroceso: \b" + usuario);
+        System.out.println("Comillas simples: \'" + usuario + "\'");
+        System.out.println("Comillas dobles: \"" + usuario + "\"");
     }
 }

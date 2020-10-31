@@ -1,8 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b826d5f-cb7b-4239-b045-556fbcd660b8" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="1b826d5f-cb7b-4239-b045-556fbcd660b8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Curso_Udemy/Clases/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso_Udemy/Clases/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso_Udemy/Clases/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso_Udemy/Clases/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso_Udemy/Clases/Clases.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso_Udemy/Clases/out/production/Clases/Persona.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso_Udemy/Clases/src/clases/Persona.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ejercicios_generales/If_Else/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ejercicios_generales/If_Else/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ejercicios_generales/If_Else/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ejercicios_generales/If_Else/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ejercicios_generales/If_Else/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ejercicios_generales/If_Else/If_Else.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ejercicios_generales/If_Else/out/production/If_Else/if_else.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ejercicios_generales/If_Else/src/if_else.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ejercicios_generales/Rectangulo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ejercicios_generales/Rectangulo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ejercicios_generales/Rectangulo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ejercicios_generales/Rectangulo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ejercicios_generales/Rectangulo/Rectangulo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ejercicios_generales/Rectangulo/out/production/Rectangulo/Rectangulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ejercicios_generales/Rectangulo/src/Rectangulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ejercicios_generales/Switch/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ejercicios_generales/Switch/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ejercicios_generales/Switch/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ejercicios_generales/Switch/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ejercicios_generales/Switch/Switch.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ejercicios_generales/Switch/out/production/Switch/Switch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ejercicios_generales/Switch/src/Switch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ejercicios_generales/hola_mundo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ejercicios_generales/hola_mundo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ejercicios_generales/hola_mundo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ejercicios_generales/hola_mundo/hola_mundo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ejercicios_generales/hola_mundo/out/production/hola_mundo/HolaMundo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ejercicios_generales/hola_mundo/src/HolaMundo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ejercicios_generales/variables/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ejercicios_generales/variables/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ejercicios_generales/variables/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ejercicios_generales/variables/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ejercicios_generales/variables/out/production/variables/Tipos_variables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ejercicios_generales/variables/src/Tipos_variables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ejercicios_generales/variables/variables.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,21 +58,17 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1QnoOVinITHRjCHbNAiTu1HnyvD" />
-  <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../diseñoDeClases" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="ProjectId" id="1QnoOVinITHRjCHbNAiTu1HnyvD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -45,6 +84,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -57,5 +97,15 @@
       <updated>1568415688065</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="171" key="FileChooserDialogImpl" timestamp="1604018685530">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="499" y="171" key="FileChooserDialogImpl/1440.267.1280.680/0.0.1440.860@0.0.1440.860" timestamp="1604018685530" />
+    <state x="102" y="50" key="new project wizard" timestamp="1604018712778">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="102" y="50" key="new project wizard/1440.267.1280.680/0.0.1440.860@0.0.1440.860" timestamp="1604018712778" />
   </component>
 </project>

@@ -27,5 +27,15 @@ public class PruebaAritmetica {
         System.out.println("Aritmetica a: " + aritmetica_2.a);
         System.out.println("Aritmetica b: " + aritmetica_2.b);
 
+        //Variables locales
+        int a = 10;
+        miMetodo();
+
+    }
+
+    public static void miMetodo(){
+        //La variable a esta fuera del alcance donde fue definida
+        //a = 10; No se puede asignar
+        System.out.println("Otro metodo");
     }
 }

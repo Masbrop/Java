@@ -12,7 +12,8 @@ public class Paso_por_referencia {
         System.out.println("Persona1 cambio de nombre = " + persona1.nombre);
     }
 
-    public static void cambiaValor(Persona persona){
+    public static Persona cambiaValor(Persona persona){
         persona.nombre = "Evelin";
+        return persona;
     }
 }
